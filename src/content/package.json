@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "@editorjs/editorjs": "^2.16.1",
+    "@editorjs/simple-image": "^1.3.3",
+    "sass": "^1.25.0"
+  },
+  "dependencies": {
+    "@editorjs/embed": "^2.2.1",
+    "@editorjs/header": "^2.4.0",
+    "@editorjs/image": "^2.3.3",
+    "@editorjs/list": "^1.4.0"
+  },
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.php",
+    "prod": "parcel build index.php"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

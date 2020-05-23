@@ -1,0 +1,1 @@
+{"version":3,"sources":["css\\main.scss"],"names":[],"mappings":"AAAA;EACI;EACA;EACA;EACA;;;AAGJ;EACI","file":"main.54166fbf.css","sourceRoot":"..","sourcesContent":["body{\r\n    background: rgb(233, 233, 233);\r\n    height: 100%;\r\n    padding: 3em;\r\n    font-family: 'Montserrat';\r\n}\r\n\r\n#editorjs{\r\n    background: white;\r\n}"]}
